@@ -19,7 +19,7 @@ Aqui estão armazenados os **relatórios e atividades práticas** desenvolvidas 
 ---
 
 ## 🔗 Links Importantes
-- [Meu LinkedIn](www.linkedin.com/in/carlos-santos-5a2aba378)  
+- [Meu LinkedIn](https://www.linkedin.com/in/carlos-santos-5a2aba378/)  
 - [Meu GitHub](https://github.com/carlosmktsantos23-bit/portof-lio)  
 
 ---
